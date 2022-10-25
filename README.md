@@ -2,3 +2,4 @@
 - 👀 I’m interested in galaxy, human genetic, code
 - 🌱 I’m currently learning php
 - 📫 How to reach me coming soon.
+- 📗 I'm studying at Kirikkale University.
