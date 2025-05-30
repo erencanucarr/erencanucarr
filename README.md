@@ -1,11 +1,22 @@
-- Hello, I am Eren Can.
+# Hi, I'm Eren Can 👋  
 
-I am 22 years old and actively working in the IT industry. I have been working as a System Technical Support Specialist at NiobeHosting since February 2024 and as a System Technical Support Specialist at FastPanda Limited as of August 2024. 
+🎯 **System Technical Support Specialist** | 💻 **IT Enthusiast** | 🛠️ **Open Source Advocate**
 
-I closely follow the developments in the sector, I always take care to learn and improve myself. I love to blend the information I have learned and share it with people, I share the information I blend on my web page. I always support Open Source software and I love to share it with people by producing open source systems when necessary. 
+Welcome to my GitHub profile!
 
-Links & Connections
+I'm Eren Can, a 22-year-old IT professional passionate about systems, support, and open source technologies. I'm currently working as a **System Technical Support Specialist** at **NiobeHosting** (since February 2024) and **FastPanda Limited** (since August 2024).  
 
- My website: https://erencanucar.com
- 
-📧 ⸱ My Mail Address: ecu@erencanucar.com
+I actively follow the latest developments in the tech world and constantly strive to learn, evolve, and share what I know. I enjoy blending the knowledge I gain from experience and research, and I publish insights and tutorials on my personal website.
+
+🔓 I’m a big fan of **Open Source** – not just using it, but contributing to it as well. You’ll often find me building and sharing open source tools and systems that help others in the community.
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 **Website**: [eren.gg](https://eren.gg)  
+- 📧 **Email**: [hi@eren.gg](mailto:hi@eren.gg)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out to collaborate.
