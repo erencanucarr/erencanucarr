@@ -7,7 +7,6 @@
 *think simple and do it.*
 
 [![Website](https://img.shields.io/badge/erencan.me-1a1b26?style=flat-square&logo=googlechrome&logoColor=white)](https://erencan.me)
-[![Kronode](https://img.shields.io/badge/kronode.com-1a1b26?style=flat-square&logo=github&logoColor=white)](https://kronode.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/erencanucar)
 [![Email](https://img.shields.io/badge/hi@erencan.me-1a1b26?style=flat-square&logo=maildotru&logoColor=white)](mailto:hi@erencan.me)
 [![RSS](https://img.shields.io/badge/RSS-1a1b26?style=flat-square&logo=rss&logoColor=white)](https://erencan.me/feed.xml)
@@ -27,14 +26,13 @@ $ echo $MOTTO
 think simple and do it.
 ```
 
-I keep servers, mail gateways and networks running, and when I catch myself doing the same task twice, I turn it into a tool. Most of those tools end up here as open source, some under the **[Kronode](https://kronode.com)** brand. I write about the problems behind them at **[erencan.me](https://erencan.me)**.
+I keep servers, mail gateways and networks running, and when I catch myself doing the same task twice, I turn it into a tool. Most of those tools end up here as open source on GitHub. I write about the problems behind them at **[erencan.me](https://erencan.me)**.
 
 ## 🛠️ Things I've built
 
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[WHOIZ](https://whoiz.tr)** | A WHOIS system. Query everything. | Web |
-| **[PMGSuite](https://github.com/kronodes/PMGS)** | Interactive Bash toolkit for bulk operations on Proxmox Mail Gateway. | Bash |
 | **[HellSync](https://github.com/erencanucarr/Hell-Sync)** | Self-hosted bookmark & history sync for Chromium browsers: your server, your data, with backups. | JS · PHP |
 | **[IPAM](https://github.com/erencanucarr/ipam)** | A modern, secure and lightweight IP address management system. | PHP |
 | **[DNSRator](https://github.com/erencanucarr/dnsrator)** | DNS lookup extension for Chrome ([Firefox build](https://github.com/erencanucarr/dnsrator-firefox)). | JS |
