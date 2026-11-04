@@ -32,6 +32,7 @@ I keep servers, mail gateways and networks running, and when I catch myself doin
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[Prune](https://github.com/erencanucarr/prune)** | Strips tracking parameters from links before they leave your browser. A Manifest V3 successor to ClearURLs, with [self-hosted rules](https://github.com/erencanucarr/prune-rules). | JS · Python |
 | **[WHOIZ](https://whoiz.tr)** | A WHOIS system. Query everything. | Web |
 | **[HellSync](https://github.com/erencanucarr/Hell-Sync)** | Self-hosted bookmark & history sync for Chromium browsers: your server, your data, with backups. | JS · PHP |
 | **[IPAM](https://github.com/erencanucarr/ipam)** | A modern, secure and lightweight IP address management system. | PHP |
